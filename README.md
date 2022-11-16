@@ -15,3 +15,7 @@
       
 ## Warum ist es sinnvoll den seed zu setzen bei Random?
   weil etwas dann random ist, z.b.: eine zahlenfolge, aber diese zahlenfolge bei jedem object gleich ist. Somit ist die randomness steuerbar.
+  
+## Was macht Random.Range:
+  Mit random.range kann man angeben, in welchen bereich ein random wert generiert werden sollte.
+
