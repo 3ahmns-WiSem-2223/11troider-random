@@ -18,4 +18,12 @@
   
 ## Was macht Random.Range:
   Mit random.range kann man angeben, in welchen bereich ein random wert generiert werden sollte.
+  
+## Was ist Random.value, Random.insideUnitSphere, Random.ColorHSV?
+  ### Random.value:
+      - Random.value erstellt einen zufällig generierten float wert.
+  ### Random.insideUnitSphere:
+      - Random.insideUnitSphere sucht einen zufälligen punkt in einem umkreis aus. Der Umkreis muss deklariert werden.
+  ### Random.ColorHSV:
+      - Random.ColorHSV erstellt einen zufälligen Farbwert. Die Parameter für Hue, Saturation, Value und Alpha müssen in float werten angegeben werden.
 
